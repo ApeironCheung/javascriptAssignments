@@ -1,0 +1,18 @@
+#box {
+    border: rgb(206,255,194) 5px solid;  /*  feel free to change the border */
+    background-color: rgb(255, 255, 255);
+    padding: 10px; padding-top:0px;
+    width: 300px;
+}
+
+
+#box button {
+    width: 56px;
+    padding: 2px;
+}
+
+#off{
+    text-align: center;
+}
+#off button{width:80px}
+   
